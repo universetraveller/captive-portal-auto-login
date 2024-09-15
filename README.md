@@ -1,6 +1,8 @@
 # captive-portal-auto-login
 Runs as a daemon to monitor the captive portal and auto-login if offline, supporting multiple network interfaces.
 
+[简体中文](./README.md) | [English (translated by ChatGPT)](./README_en.md)
+
 ## Features
 定期检测在线状态并自动登录需要进行认证的网络，支持指定网卡进行连接，适用于多网卡，无图形界面或嵌入式设备的场景。解决了多网段下自动认证的难点。
 
